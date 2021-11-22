@@ -357,6 +357,7 @@ select {
     font-family: 'Helvetica__Bold';
     color: rgba(255, 255, 255, 1);
     font-size: 12px;
+    letter-spacing: 0.02em;
 }
 
 @media screen and (max-width: 1440px) {
